@@ -15,7 +15,13 @@ const Hero = () => {
             level="h2"
             className="text-3xl leading-10 text-ui-fg-subtle font-normal"
           >
-            Wuzy offers a curated selection of jewelry, clothing, home essentials, and other artisan gifts.
+            Wuzy offers a curated selection of jewelry
+          </Heading>
+          <Heading
+            level="h2"
+            className="text-3xl leading-10 text-ui-fg-subtle font-normal"
+          >
+            clothing, home essentials, and other artisan gifts.
           </Heading>
         </span>
       </div>
