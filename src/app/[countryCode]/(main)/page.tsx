@@ -10,7 +10,7 @@ import { cache } from "react"
 export const metadata: Metadata = {
   title: "Wuzy Store",
   description:
-    "A performant frontend ecommerce starter template with Next.js 14 and Medusa.",
+    "",
 }
 
 const getCollectionsWithProducts = cache(
